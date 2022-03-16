@@ -1,0 +1,32 @@
+.grande {
+    width: 500px;
+}
+.espaciado{
+    padding: 20px;
+    /* background-color: aliceblue; */
+    margin: 1em;
+}
+th {
+    padding:  1em;
+}
+
+.libra {
+    width: 500px;
+    height: 50px;
+}
+.alto{
+    font-size: 60px;
+}
+
+.denter{
+    width: 100%;
+    height: 20%;
+    background: rebeccapurple;
+    
+   
+}
+.img_denter{
+    width: 100%;
+    height: 80vh;
+    object-fit: cover;
+}
